@@ -1,0 +1,3 @@
+rootProject.name='libraryJitPack'
+include ':app'
+include ':mylibrary'
